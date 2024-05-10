@@ -5,7 +5,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "public-docs",
-  description: "NuxAi Plublic Docs",
+  description: "NuxAi Public Docs",
+  base: '/public-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
