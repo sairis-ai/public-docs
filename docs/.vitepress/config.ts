@@ -17,9 +17,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Resources',
+        text: 'Assistant',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Assistant Home', link: '/Assistant/assistant-home' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Sairis', link: '/sairis-overview' }
         ]
