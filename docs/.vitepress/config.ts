@@ -18,6 +18,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Assistant',
+        collapsed: false,
         items: [
           { text: 'Assistant Home', link: '/Assistant/assistant-home' },
           { text: 'Runtime API Examples', link: '/api-examples' },
@@ -26,6 +27,7 @@ export default defineConfig({
       },
       {
         text: 'Resources',
+        collapsed: false,
         items: [
           { text: 'YAYY', link: '/markdown-examples' },
           { text: 'BooYah', link: '/api-examples' },
