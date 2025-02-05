@@ -23,7 +23,7 @@ export default defineConfig({
           { text: 'Assistant Home', link: '/Assistant/assistant-home' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Sairis', link: '/sairis-overview' },
-          { text: 'Another Level', items: [ {text: 'Brads Page', link: '/brads-page' }] },
+          { text: 'Settings', collapsed: true, items: [ {text: 'Brads Page', link: 'brads-page'}, {text: 'Brads Page', link: 'brads-page'}, {text: 'Brads Page', link: 'brads-page'}] },
         ]
       },
       {
