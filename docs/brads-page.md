@@ -1,3 +1,3 @@
 # Brad's Page
 
-Let her rip tator chip
+THis is a new information
