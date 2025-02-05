@@ -23,6 +23,14 @@ export default defineConfig({
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'Sairis', link: '/sairis-overview' }
         ]
+      },
+      {
+        text: 'Resources',
+        items: [
+          { text: 'YAYY', link: '/markdown-examples' },
+          { text: 'BooYah', link: '/api-examples' },
+          { text: 'Double CHeck', link: '/sairis-overview' }
+        ]
       }
     ],
 
