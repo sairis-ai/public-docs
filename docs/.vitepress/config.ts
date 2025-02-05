@@ -9,8 +9,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Get Started', link: '../public-docs' },
-      { text: 'Assistant', link: '../public-docs' },
+      { text: 'Get Started', link: '/sairis-overview' },
+      { text: 'Assistant', link: '/sairis-overview' },
       { text: 'Admin Portal', link: '../public-docs' },
     ],
 
