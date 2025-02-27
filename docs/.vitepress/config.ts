@@ -35,7 +35,7 @@ export default defineConfig({
         text: 'Resources',
         collapsed: false,
         items: [
-          { text: 'YAYY', link: '/markdown-examples' },
+          { text: 'YATESTYY', link: '/markdown-examples' },
           { text: 'BooYah', link: '/api-examples' },
           { text: 'Double CHeck', link: '/sairis-overview' }
         ]
